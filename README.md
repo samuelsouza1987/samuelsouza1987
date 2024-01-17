@@ -3,7 +3,7 @@
 ## 🙍 About me:
 
 - 🌱 Estou atualmente aprendendo Python
-- 📫 How to reach me: <a href="https://wa.me/557188589295"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+- 📫 Contato: <a href="https://wa.me/557188589295"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
 
 <hr>
 
